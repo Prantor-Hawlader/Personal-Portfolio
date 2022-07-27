@@ -153,17 +153,14 @@ section {
   flex: 1 1 42rem;
 }
 
-.home .content h3 {
+.home .content h1 {
   color: #fff;
   font-size: 4rem;
   padding-bottom: 0.5rem;
 }
-
 .home .content span {
   font-size: 3rem;
   color: #2fc23c;
-  padding: 0.5rem 0;
-  display: block;
 }
 
 .home .content p {
